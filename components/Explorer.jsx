@@ -20,21 +20,6 @@ const explorerItems = [
     path: '/contact',
     icon: 'css_icon.svg',
   },
-  {
-    name: 'projects.js',
-    path: '/projects',
-    icon: 'js_icon.svg',
-  },
-  {
-    name: 'articles.json',
-    path: '/articles',
-    icon: 'json_icon.svg',
-  },
-  {
-    name: 'github.md',
-    path: '/github',
-    icon: 'markdown_icon.svg',
-  },
 ];
 
 const Explorer = () => {
